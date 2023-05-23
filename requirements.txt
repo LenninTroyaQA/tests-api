@@ -1,0 +1,8 @@
+requests
+assertlib
+pytest
+allure-pytest
+pytest-xdist
+pytest-variables
+pytest-rerunfailures
+delayed-assert
